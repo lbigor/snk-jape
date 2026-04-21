@@ -1,5 +1,8 @@
 # snk-jape
 
+[![Discussions](https://img.shields.io/github/discussions/lbigor/snk-jape)](https://github.com/lbigor/snk-jape/discussions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > Cheatsheet viva dos 7 erros mais comuns do JAPE. Pare de quebrar a API pela décima vez.
 
 **Problema:** 7 armadilhas recorrentes do JAPE (Java Persistence API do Sankhya) gastam 2h por bug.
